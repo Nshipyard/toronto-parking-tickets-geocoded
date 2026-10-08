@@ -127,7 +127,7 @@ export default function McpConnect({ config }: { config: McpConfig }) {
         ) : (
           <div className="px-6 py-5">
             {tab === "chatgpt" && <p className="mb-3 text-[14px] text-white/60">{m.chatgptNote}</p>}
-            <pre className="whitespace-pre-wrap font-mono text-[13.5px] leading-relaxed text-white/85">{activePrompt}</pre>
+            <pre className="whitespace-pre-wrap break-words font-mono text-[13.5px] leading-relaxed text-white/85">{activePrompt}</pre>
           </div>
         )}
       </div>

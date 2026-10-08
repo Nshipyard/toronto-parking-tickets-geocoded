@@ -82,7 +82,7 @@ export default function Explorer() {
                 <ul className="mt-3 space-y-2">
                   {res.streets.map((s) => (
                     <li key={s.street} className="flex items-baseline justify-between gap-3">
-                      <span className="font-mono text-[15px]">{s.street}</span>
+                      <span className="min-w-0 break-words font-mono text-[15px]">{s.street}</span>
                       <span className="shrink-0 font-mono text-[14px] text-canada">{fmt(s.tickets)}</span>
                     </li>
                   ))}
@@ -95,7 +95,7 @@ export default function Explorer() {
                 <ul className="mt-3 space-y-2">
                   {res.neighbourhoods.map((h) => (
                     <li key={h.code} className="flex items-baseline justify-between gap-3">
-                      <span className="text-[15px]">
+                      <span className="min-w-0 break-words text-[15px]">
                         {h.name} <span className="font-mono text-ink/50">({h.code})</span>
                       </span>
                       <span className="shrink-0 font-mono text-[14px] text-canada">{fmt(h.tickets)}</span>
@@ -110,7 +110,7 @@ export default function Explorer() {
                 <ul className="mt-3 space-y-2">
                   {res.wards.map((w) => (
                     <li key={w.ward} className="flex items-baseline justify-between gap-3">
-                      <span className="text-[15px]">
+                      <span className="min-w-0 break-words text-[15px]">
                         {w.name} <span className="font-mono text-ink/50">({w.ward})</span>
                       </span>
                       <span className="shrink-0 font-mono text-[14px] text-canada">{fmt(w.tickets)}</span>
@@ -125,7 +125,7 @@ export default function Explorer() {
                 <ul className="mt-3 space-y-2">
                   {res.infractions.map((c) => (
                     <li key={c.code} className="flex items-baseline justify-between gap-3">
-                      <span className="text-[15px]">
+                      <span className="min-w-0 break-words text-[15px]">
                         <span className="font-mono text-ink/50">[{c.code}]</span> {c.desc}
                       </span>
                       <span className="shrink-0 font-mono text-[14px] text-canada">{fmt(c.tickets)}</span>

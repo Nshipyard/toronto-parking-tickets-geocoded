@@ -136,7 +136,7 @@ export default function Showcase() {
               {streets.map((s) => (
                 <li key={s.street}>
                   <div className="flex items-baseline justify-between gap-3 text-[14.5px]">
-                    <span className="font-mono">{s.street}</span>
+                    <span className="min-w-0 break-words font-mono">{s.street}</span>
                     <span className="shrink-0 font-mono text-canada">{fmt(s.tickets)}</span>
                   </div>
                   <div className="mt-1 h-1.5 overflow-hidden rounded-full bg-ink/8">
