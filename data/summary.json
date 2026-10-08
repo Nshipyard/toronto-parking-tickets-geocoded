@@ -1,0 +1,34 @@
+{
+  "slice": "City of Toronto open data 'Parking Tickets', calendar years 2023-2025 (monthly files), retrieved 2026-10-08",
+  "total_tickets_in_slice": 6454695,
+  "geocoded_tickets": 5606483,
+  "match_rate": 0.8686,
+  "match_method": "location2 addresses matched to City Address Points (Municipal) on house number + normalized street; ward from address point, neighbourhood via point-in-polygon on 158-model boundaries",
+  "unmatched_no_house_number": 454178,
+  "unmatched_no_address_match": 394034,
+  "total_set_fines_geocoded": 377654420,
+  "wards_covered": 25,
+  "neighbourhoods_covered": 158,
+  "infraction_codes": 195,
+  "top_infraction": {
+    "code": "3",
+    "desc": "PARK ON PRIVATE PROPERTY",
+    "tickets": 1085167
+  },
+  "top_ward": {
+    "ward": "10",
+    "name": "Spadina-Fort York",
+    "tickets": 811816
+  },
+  "top_neighbourhood": {
+    "code": "095",
+    "name": "Annex",
+    "tickets": 244764
+  },
+  "top_street": {
+    "street": "YONGE ST",
+    "tickets": 148504
+  },
+  "peak_hour": 11,
+  "peak_month": 5
+}

@@ -1,0 +1,331 @@
+hood_158,name_158,ward_25,ward_name,share_of_hood,is_primary
+001,West Humber-Clairville,01,Etobicoke North,0.9998,1
+001,West Humber-Clairville,02,Etobicoke Centre,0.0002,0
+002,Mount Olive-Silverstone-Jamestown,01,Etobicoke North,1.0,1
+002,Mount Olive-Silverstone-Jamestown,07,Humber River-Black Creek,0.0,0
+003,Thistletown-Beaumond Heights,01,Etobicoke North,1.0,1
+003,Thistletown-Beaumond Heights,07,Humber River-Black Creek,0.0,0
+004,Rexdale-Kipling,01,Etobicoke North,1.0,1
+005,Elms-Old Rexdale,01,Etobicoke North,1.0,1
+005,Elms-Old Rexdale,07,Humber River-Black Creek,0.0,0
+006,Kingsview Village-The Westway,01,Etobicoke North,0.6421,1
+006,Kingsview Village-The Westway,02,Etobicoke Centre,0.3579,0
+006,Kingsview Village-The Westway,05,York South-Weston,0.0,0
+007,Willowridge-Martingrove-Richview,02,Etobicoke Centre,0.7919,1
+007,Willowridge-Martingrove-Richview,01,Etobicoke North,0.2081,0
+008,Humber Heights-Westmount,02,Etobicoke Centre,0.9454,1
+008,Humber Heights-Westmount,01,Etobicoke North,0.0546,0
+008,Humber Heights-Westmount,05,York South-Weston,0.0,0
+009,Edenbridge-Humber Valley,02,Etobicoke Centre,1.0,1
+009,Edenbridge-Humber Valley,03,Etobicoke-Lakeshore,0.0,0
+009,Edenbridge-Humber Valley,04,Parkdale-High Park,0.0,0
+009,Edenbridge-Humber Valley,05,York South-Weston,0.0,0
+010,Princess-Rosethorn,02,Etobicoke Centre,1.0,1
+010,Princess-Rosethorn,03,Etobicoke-Lakeshore,0.0,0
+011,Eringate-Centennial-West Deane,02,Etobicoke Centre,0.9804,1
+011,Eringate-Centennial-West Deane,01,Etobicoke North,0.0196,0
+012,Markland Wood,02,Etobicoke Centre,1.0,1
+012,Markland Wood,03,Etobicoke-Lakeshore,0.0,0
+013,Etobicoke West Mall,02,Etobicoke Centre,1.0,1
+015,Kingsway South,03,Etobicoke-Lakeshore,0.8643,1
+015,Kingsway South,02,Etobicoke Centre,0.1357,0
+015,Kingsway South,04,Parkdale-High Park,0.0,0
+016,Stonegate-Queensway,03,Etobicoke-Lakeshore,1.0,1
+016,Stonegate-Queensway,04,Parkdale-High Park,0.0,0
+018,New Toronto,03,Etobicoke-Lakeshore,0.9993,1
+019,Long Branch,03,Etobicoke-Lakeshore,1.0,1
+020,Alderwood,03,Etobicoke-Lakeshore,1.0,1
+021,Humber Summit,07,Humber River-Black Creek,1.0,1
+021,Humber Summit,01,Etobicoke North,0.0,0
+022,Humbermede,07,Humber River-Black Creek,0.9823,1
+022,Humbermede,01,Etobicoke North,0.0177,0
+023,Pelmo Park-Humberlea,05,York South-Weston,0.5194,1
+023,Pelmo Park-Humberlea,07,Humber River-Black Creek,0.4806,0
+023,Pelmo Park-Humberlea,01,Etobicoke North,0.0,0
+024,Black Creek,07,Humber River-Black Creek,1.0,1
+025,Glenfield-Jane Heights,07,Humber River-Black Creek,0.8017,1
+025,Glenfield-Jane Heights,06,York Centre,0.1983,0
+027,York University Heights,06,York Centre,0.6225,1
+027,York University Heights,07,Humber River-Black Creek,0.3775,0
+028,Rustic,05,York South-Weston,1.0,1
+029,Maple Leaf,05,York South-Weston,1.0,1
+029,Maple Leaf,06,York Centre,0.0,0
+030,Brookhaven-Amesbury,05,York South-Weston,1.0,1
+031,Yorkdale-Glen Park,08,Eglinton-Lawrence,1.0,1
+031,Yorkdale-Glen Park,06,York Centre,0.0,0
+032,Englemount-Lawrence,08,Eglinton-Lawrence,1.0,1
+032,Englemount-Lawrence,06,York Centre,0.0,0
+033,Clanton Park,06,York Centre,1.0,1
+033,Clanton Park,08,Eglinton-Lawrence,0.0,0
+034,Bathurst Manor,06,York Centre,1.0,1
+035,Westminster-Branson,06,York Centre,1.0,1
+035,Westminster-Branson,18,Willowdale,0.0,0
+036,Newtonbrook West,18,Willowdale,1.0,1
+036,Newtonbrook West,06,York Centre,0.0,0
+037,Willowdale West,18,Willowdale,1.0,1
+037,Willowdale West,06,York Centre,0.0,0
+038,Lansing-Westgate,18,Willowdale,0.5757,1
+038,Lansing-Westgate,06,York Centre,0.4243,0
+038,Lansing-Westgate,08,Eglinton-Lawrence,0.0,0
+039,Bedford Park-Nortown,08,Eglinton-Lawrence,1.0,1
+039,Bedford Park-Nortown,15,Don Valley West,0.0,0
+040,St.Andrew-Windfields,15,Don Valley West,0.8245,1
+040,St.Andrew-Windfields,16,Don Valley East,0.1755,0
+040,St.Andrew-Windfields,08,Eglinton-Lawrence,0.0,0
+040,St.Andrew-Windfields,17,Don Valley North,0.0,0
+040,St.Andrew-Windfields,18,Willowdale,0.0,0
+041,Bridle Path-Sunnybrook-York Mills,15,Don Valley West,1.0,1
+042,Banbury-Don Mills,16,Don Valley East,0.7033,1
+042,Banbury-Don Mills,15,Don Valley West,0.2967,0
+043,Victoria Village,16,Don Valley East,0.9398,1
+043,Victoria Village,19,Beaches-East York,0.0602,0
+043,Victoria Village,21,Scarborough Centre,0.0,0
+044,Flemingdon Park,16,Don Valley East,0.9683,1
+044,Flemingdon Park,15,Don Valley West,0.0182,0
+044,Flemingdon Park,19,Beaches-East York,0.0135,0
+046,Pleasant View,17,Don Valley North,1.0,1
+046,Pleasant View,22,Scarborough-Agincourt,0.0,0
+047,Don Valley Village,17,Don Valley North,1.0,1
+048,Hillcrest Village,17,Don Valley North,1.0,1
+049,Bayview Woods-Steeles,17,Don Valley North,1.0,1
+049,Bayview Woods-Steeles,18,Willowdale,0.0,0
+050,Newtonbrook East,18,Willowdale,1.0,1
+052,Bayview Village,17,Don Valley North,1.0,1
+052,Bayview Village,15,Don Valley West,0.0,0
+052,Bayview Village,18,Willowdale,0.0,0
+053,Henry Farm,17,Don Valley North,0.9999,1
+053,Henry Farm,22,Scarborough-Agincourt,0.0001,0
+053,Henry Farm,16,Don Valley East,0.0,0
+054,O'Connor-Parkview,19,Beaches-East York,0.9147,1
+054,O'Connor-Parkview,16,Don Valley East,0.0581,0
+054,O'Connor-Parkview,15,Don Valley West,0.0272,0
+054,O'Connor-Parkview,14,Toronto-Danforth,0.0,0
+055,Thorncliffe Park,15,Don Valley West,1.0,1
+055,Thorncliffe Park,16,Don Valley East,0.0,0
+056,Leaside-Bennington,15,Don Valley West,0.8718,1
+056,Leaside-Bennington,11,University-Rosedale,0.1282,0
+056,Leaside-Bennington,14,Toronto-Danforth,0.0,0
+057,Broadview North,14,Toronto-Danforth,1.0,1
+057,Broadview North,11,University-Rosedale,0.0,0
+057,Broadview North,15,Don Valley West,0.0,0
+058,Old East York,14,Toronto-Danforth,0.7494,1
+058,Old East York,19,Beaches-East York,0.2506,0
+058,Old East York,16,Don Valley East,0.0,0
+059,Danforth East York,14,Toronto-Danforth,0.6527,1
+059,Danforth East York,19,Beaches-East York,0.3473,0
+060,Woodbine-Lumsden,19,Beaches-East York,1.0,1
+061,Taylor-Massey,19,Beaches-East York,1.0,1
+061,Taylor-Massey,20,Scarborough Southwest,0.0,0
+062,East End-Danforth,19,Beaches-East York,1.0,1
+063,The Beaches,19,Beaches-East York,0.9058,1
+063,The Beaches,14,Toronto-Danforth,0.0942,0
+064,Woodbine Corridor,19,Beaches-East York,1.0,1
+064,Woodbine Corridor,14,Toronto-Danforth,0.0,0
+065,Greenwood-Coxwell,14,Toronto-Danforth,0.9924,1
+065,Greenwood-Coxwell,19,Beaches-East York,0.0076,0
+066,Danforth,14,Toronto-Danforth,0.6713,1
+066,Danforth,19,Beaches-East York,0.3287,0
+067,Playter Estates-Danforth,14,Toronto-Danforth,1.0,1
+067,Playter Estates-Danforth,11,University-Rosedale,0.0,0
+068,North Riverdale,14,Toronto-Danforth,1.0,1
+068,North Riverdale,11,University-Rosedale,0.0,0
+068,North Riverdale,13,Toronto Centre,0.0,0
+069,Blake-Jones,14,Toronto-Danforth,1.0,1
+070,South Riverdale,14,Toronto-Danforth,0.9513,1
+070,South Riverdale,19,Beaches-East York,0.0425,0
+070,South Riverdale,10,Spadina-Fort York,0.0005,0
+070,South Riverdale,13,Toronto Centre,0.0,0
+071,Cabbagetown-South St.James Town,13,Toronto Centre,0.8338,1
+071,Cabbagetown-South St.James Town,11,University-Rosedale,0.1662,0
+071,Cabbagetown-South St.James Town,14,Toronto-Danforth,0.0,0
+072,Regent Park,13,Toronto Centre,1.0,1
+072,Regent Park,14,Toronto-Danforth,0.0,0
+073,Moss Park,13,Toronto Centre,1.0,1
+073,Moss Park,14,Toronto-Danforth,0.0,0
+074,North St.James Town,13,Toronto Centre,0.9737,1
+074,North St.James Town,11,University-Rosedale,0.0263,0
+078,Kensington-Chinatown,11,University-Rosedale,0.5384,1
+078,Kensington-Chinatown,10,Spadina-Fort York,0.4616,0
+079,University,11,University-Rosedale,1.0,1
+080,Palmerston-Little Italy,11,University-Rosedale,0.8076,1
+080,Palmerston-Little Italy,09,Davenport,0.1924,0
+081,Trinity-Bellwoods,10,Spadina-Fort York,0.5332,1
+081,Trinity-Bellwoods,11,University-Rosedale,0.3716,0
+081,Trinity-Bellwoods,09,Davenport,0.0952,0
+083,Dufferin Grove,09,Davenport,1.0,1
+084,Little Portugal,09,Davenport,1.0,1
+084,Little Portugal,10,Spadina-Fort York,0.0,0
+084,Little Portugal,04,Parkdale-High Park,0.0,0
+085,South Parkdale,04,Parkdale-High Park,0.839,1
+085,South Parkdale,10,Spadina-Fort York,0.161,0
+085,South Parkdale,03,Etobicoke-Lakeshore,0.0,0
+086,Roncesvalles,04,Parkdale-High Park,1.0,1
+086,Roncesvalles,09,Davenport,0.0,0
+087,High Park-Swansea,04,Parkdale-High Park,1.0,1
+087,High Park-Swansea,03,Etobicoke-Lakeshore,0.0,0
+088,High Park North,04,Parkdale-High Park,1.0,1
+089,Runnymede-Bloor West Village,04,Parkdale-High Park,1.0,1
+090,Junction Area,05,York South-Weston,0.5157,1
+090,Junction Area,04,Parkdale-High Park,0.4843,0
+091,Weston-Pelham Park,09,Davenport,0.9844,1
+091,Weston-Pelham Park,05,York South-Weston,0.0156,0
+092,Corso Italia-Davenport,09,Davenport,1.0,1
+094,Wychwood,12,Toronto-St. Paul's,0.8049,1
+094,Wychwood,09,Davenport,0.1951,0
+095,Annex,11,University-Rosedale,1.0,1
+095,Annex,12,Toronto-St. Paul's,0.0,0
+096,Casa Loma,12,Toronto-St. Paul's,1.0,1
+097,Yonge-St.Clair,12,Toronto-St. Paul's,1.0,1
+098,Rosedale-Moore Park,11,University-Rosedale,0.9235,1
+098,Rosedale-Moore Park,12,Toronto-St. Paul's,0.0618,0
+098,Rosedale-Moore Park,13,Toronto Centre,0.0095,0
+098,Rosedale-Moore Park,15,Don Valley West,0.0052,0
+099,Mount Pleasant East,15,Don Valley West,0.8731,1
+099,Mount Pleasant East,12,Toronto-St. Paul's,0.1266,0
+099,Mount Pleasant East,11,University-Rosedale,0.0003,0
+100,Yonge-Eglinton,12,Toronto-St. Paul's,0.5661,1
+100,Yonge-Eglinton,08,Eglinton-Lawrence,0.4339,0
+101,Forest Hill South,12,Toronto-St. Paul's,1.0,1
+101,Forest Hill South,08,Eglinton-Lawrence,0.0,0
+102,Forest Hill North,08,Eglinton-Lawrence,1.0,1
+102,Forest Hill North,12,Toronto-St. Paul's,0.0,0
+103,Lawrence Park South,08,Eglinton-Lawrence,0.7006,1
+103,Lawrence Park South,15,Don Valley West,0.2994,0
+105,Lawrence Park North,08,Eglinton-Lawrence,0.5397,1
+105,Lawrence Park North,15,Don Valley West,0.4603,0
+106,Humewood-Cedarvale,12,Toronto-St. Paul's,1.0,1
+106,Humewood-Cedarvale,08,Eglinton-Lawrence,0.0,0
+107,Oakwood Village,12,Toronto-St. Paul's,0.7038,1
+107,Oakwood Village,09,Davenport,0.2962,0
+108,Briar Hill-Belgravia,08,Eglinton-Lawrence,1.0,1
+108,Briar Hill-Belgravia,09,Davenport,0.0,0
+108,Briar Hill-Belgravia,12,Toronto-St. Paul's,0.0,0
+108,Briar Hill-Belgravia,05,York South-Weston,0.0,0
+109,Caledonia-Fairbank,09,Davenport,0.9999,1
+109,Caledonia-Fairbank,05,York South-Weston,0.0001,0
+109,Caledonia-Fairbank,08,Eglinton-Lawrence,0.0,0
+110,Keelesdale-Eglinton West,05,York South-Weston,0.9381,1
+110,Keelesdale-Eglinton West,09,Davenport,0.0619,0
+111,Rockcliffe-Smythe,05,York South-Weston,1.0,1
+111,Rockcliffe-Smythe,04,Parkdale-High Park,0.0,0
+111,Rockcliffe-Smythe,02,Etobicoke Centre,0.0,0
+112,Beechborough-Greenbrook,05,York South-Weston,1.0,1
+113,Weston,05,York South-Weston,1.0,1
+113,Weston,02,Etobicoke Centre,0.0,0
+113,Weston,01,Etobicoke North,0.0,0
+114,Lambton Baby Point,04,Parkdale-High Park,1.0,1
+114,Lambton Baby Point,03,Etobicoke-Lakeshore,0.0,0
+114,Lambton Baby Point,02,Etobicoke Centre,0.0,0
+114,Lambton Baby Point,05,York South-Weston,0.0,0
+115,Mount Dennis,05,York South-Weston,1.0,1
+116,Steeles,22,Scarborough-Agincourt,1.0,1
+116,Steeles,17,Don Valley North,0.0,0
+118,Tam O'Shanter-Sullivan,22,Scarborough-Agincourt,1.0,1
+118,Tam O'Shanter-Sullivan,21,Scarborough Centre,0.0,0
+118,Tam O'Shanter-Sullivan,17,Don Valley North,0.0,0
+119,Wexford/Maryvale,21,Scarborough Centre,1.0,1
+119,Wexford/Maryvale,20,Scarborough Southwest,0.0,0
+119,Wexford/Maryvale,16,Don Valley East,0.0,0
+119,Wexford/Maryvale,22,Scarborough-Agincourt,0.0,0
+120,Clairlea-Birchmount,20,Scarborough Southwest,1.0,1
+120,Clairlea-Birchmount,19,Beaches-East York,0.0,0
+120,Clairlea-Birchmount,21,Scarborough Centre,0.0,0
+121,Oakridge,20,Scarborough Southwest,1.0,1
+121,Oakridge,19,Beaches-East York,0.0,0
+122,Birchcliffe-Cliffside,20,Scarborough Southwest,0.988,1
+122,Birchcliffe-Cliffside,19,Beaches-East York,0.012,0
+123,Cliffcrest,20,Scarborough Southwest,0.9995,1
+123,Cliffcrest,21,Scarborough Centre,0.0005,0
+124,Kennedy Park,20,Scarborough Southwest,1.0,1
+124,Kennedy Park,21,Scarborough Centre,0.0,0
+125,Ionview,21,Scarborough Centre,0.7957,1
+125,Ionview,20,Scarborough Southwest,0.2043,0
+126,Dorset Park,21,Scarborough Centre,1.0,1
+128,Agincourt South-Malvern West,23,Scarborough North,0.7375,1
+128,Agincourt South-Malvern West,22,Scarborough-Agincourt,0.2625,0
+128,Agincourt South-Malvern West,24,Scarborough-Guildwood,0.0,0
+129,Agincourt North,23,Scarborough North,1.0,1
+130,Milliken,23,Scarborough North,0.7689,1
+130,Milliken,22,Scarborough-Agincourt,0.2311,0
+133,Centennial Scarborough,25,Scarborough-Rouge Park,1.0,1
+134,Highland Creek,25,Scarborough-Rouge Park,1.0,1
+134,Highland Creek,24,Scarborough-Guildwood,0.0,0
+135,Morningside,24,Scarborough-Guildwood,1.0,1
+135,Morningside,25,Scarborough-Rouge Park,0.0,0
+135,Morningside,23,Scarborough North,0.0,0
+136,West Hill,25,Scarborough-Rouge Park,0.6935,1
+136,West Hill,24,Scarborough-Guildwood,0.3065,0
+138,Eglinton East,21,Scarborough Centre,0.8437,1
+138,Eglinton East,20,Scarborough Southwest,0.1563,0
+139,Scarborough Village,24,Scarborough-Guildwood,0.5865,1
+139,Scarborough Village,20,Scarborough Southwest,0.4135,0
+140,Guildwood,24,Scarborough-Guildwood,0.9023,1
+140,Guildwood,25,Scarborough-Rouge Park,0.0977,0
+141,Golfdale-Cedarbrae-Woburn,24,Scarborough-Guildwood,0.9681,1
+141,Golfdale-Cedarbrae-Woburn,21,Scarborough Centre,0.0319,0
+142,Woburn North,24,Scarborough-Guildwood,1.0,1
+142,Woburn North,21,Scarborough Centre,0.0,0
+143,West Rouge,25,Scarborough-Rouge Park,0.9999,1
+144,Morningside Heights,25,Scarborough-Rouge Park,0.8264,1
+144,Morningside Heights,23,Scarborough North,0.1736,0
+145,Malvern West,23,Scarborough North,0.9231,1
+145,Malvern West,25,Scarborough-Rouge Park,0.0769,0
+146,Malvern East,25,Scarborough-Rouge Park,0.7243,1
+146,Malvern East,23,Scarborough North,0.2757,0
+146,Malvern East,24,Scarborough-Guildwood,0.0,0
+147,L'Amoreaux West,22,Scarborough-Agincourt,1.0,1
+147,L'Amoreaux West,17,Don Valley North,0.0,0
+148,East L'Amoreaux,22,Scarborough-Agincourt,1.0,1
+149,Parkwoods-O'Connor Hills,16,Don Valley East,1.0,1
+149,Parkwoods-O'Connor Hills,21,Scarborough Centre,0.0,0
+150,Fenside-Parkwoods,16,Don Valley East,1.0,1
+150,Fenside-Parkwoods,21,Scarborough Centre,0.0,0
+150,Fenside-Parkwoods,17,Don Valley North,0.0,0
+151,Yonge-Doris,18,Willowdale,1.0,1
+152,East Willowdale,18,Willowdale,1.0,1
+152,East Willowdale,17,Don Valley North,0.0,0
+153,Avondale,18,Willowdale,1.0,1
+153,Avondale,15,Don Valley West,0.0,0
+153,Avondale,17,Don Valley North,0.0,0
+154,Oakdale-Beverley Heights,07,Humber River-Black Creek,0.5603,1
+154,Oakdale-Beverley Heights,06,York Centre,0.4397,0
+154,Oakdale-Beverley Heights,05,York South-Weston,0.0,0
+155,Downsview,06,York Centre,1.0,1
+155,Downsview,08,Eglinton-Lawrence,0.0,0
+156,Bendale-Glen Andrew,21,Scarborough Centre,0.9999,1
+156,Bendale-Glen Andrew,23,Scarborough North,0.0001,0
+156,Bendale-Glen Andrew,24,Scarborough-Guildwood,0.0,0
+157,Bendale South,21,Scarborough Centre,1.0,1
+158,Islington,02,Etobicoke Centre,0.6935,1
+158,Islington,03,Etobicoke-Lakeshore,0.3065,0
+159,Etobicoke City Centre,03,Etobicoke-Lakeshore,1.0,1
+159,Etobicoke City Centre,02,Etobicoke Centre,0.0,0
+160,Mimico-Queensway,03,Etobicoke-Lakeshore,1.0,1
+161,Humber Bay Shores,03,Etobicoke-Lakeshore,1.0,1
+161,Humber Bay Shores,04,Parkdale-High Park,0.0,0
+162,West Queen West,10,Spadina-Fort York,1.0,1
+163,Fort York-Liberty Village,10,Spadina-Fort York,0.9952,1
+163,Fort York-Liberty Village,04,Parkdale-High Park,0.0048,0
+164,Wellington Place,10,Spadina-Fort York,1.0,1
+165,Harbourfront-CityPlace,10,Spadina-Fort York,1.0,1
+166,St Lawrence-East Bayfront-The Islands,10,Spadina-Fort York,0.9579,1
+166,St Lawrence-East Bayfront-The Islands,13,Toronto Centre,0.0421,0
+166,St Lawrence-East Bayfront-The Islands,14,Toronto-Danforth,0.0,0
+167,Church-Wellesley,13,Toronto Centre,0.8231,1
+167,Church-Wellesley,11,University-Rosedale,0.1769,0
+168,Downtown Yonge East,13,Toronto Centre,1.0,1
+168,Downtown Yonge East,11,University-Rosedale,0.0,0
+169,Bay-Cloverhill,11,University-Rosedale,0.7266,1
+169,Bay-Cloverhill,13,Toronto Centre,0.2734,0
+170,Yonge-Bay Corridor,10,Spadina-Fort York,0.4553,1
+170,Yonge-Bay Corridor,11,University-Rosedale,0.3268,0
+170,Yonge-Bay Corridor,13,Toronto Centre,0.2179,0
+171,Junction-Wallace Emerson,09,Davenport,1.0,1
+171,Junction-Wallace Emerson,04,Parkdale-High Park,0.0,0
+172,Dovercourt Village,09,Davenport,0.575,1
+172,Dovercourt Village,11,University-Rosedale,0.425,0
+173,North Toronto,12,Toronto-St. Paul's,0.5226,1
+173,North Toronto,15,Don Valley West,0.4774,0
+173,North Toronto,08,Eglinton-Lawrence,0.0,0
+174,South Eglinton-Davisville,12,Toronto-St. Paul's,1.0,1
+174,South Eglinton-Davisville,15,Don Valley West,0.0,0
