@@ -7,10 +7,35 @@ import "@fontsource/inter/600.css";
 import "./globals.css";
 import { LangProvider } from "@/i18n";
 
+const SITE_URL = "https://toronto-parking-tickets-geocoded.vercel.app";
+
 export const metadata: Metadata = {
-  title: "Toronto Parking Tickets, Geocoded — what 50 million tickets look like on a map",
+  title: "Toronto Parking Tickets, Geocoded: what 50 million tickets look like on a map",
   description:
     "Three years of Toronto parking tickets (2023-2025) geocoded to wards and neighbourhoods. Explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+  metadataBase: new URL(SITE_URL),
+  openGraph: {
+    title: "Toronto Parking Tickets, Geocoded: what 50 million tickets look like on a map",
+    description:
+      "Three years of Toronto parking tickets (2023-2025) geocoded to wards and neighbourhoods. Explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+    url: SITE_URL,
+    siteName: "Nshipyard Canada",
+    type: "website",
+    images: [
+      {
+        url: `${SITE_URL}/og-image.png`,
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Toronto Parking Tickets, Geocoded: what 50 million tickets look like on a map",
+    description:
+      "Three years of Toronto parking tickets (2023-2025) geocoded to wards and neighbourhoods. Explorer, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+    images: [`${SITE_URL}/og-image.png`],
+  },
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
