@@ -8,7 +8,7 @@ import "./globals.css";
 import { LangProvider } from "@/i18n";
 import { PosthogProvider } from "../components/PosthogProvider";
 
-const SITE_URL = "https://toronto-parking-tickets-geocoded.vercel.app";
+const SITE_URL = "https://parking.canada.nshipyard.com";
 
 export const metadata: Metadata = {
   title: "Toronto Parking Tickets, Geocoded: what 50 million tickets look like on a map",
